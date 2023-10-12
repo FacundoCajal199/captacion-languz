@@ -2,7 +2,7 @@ const Descripcion = () => {
   return (
     <>
     <div className="container py-5 ">
-    <h2 className="text-center h1 text-info">EVENTO DISPONIBLE POR ÚNICA VEZ DEL 16 AL 20 DE OCTUBRE</h2>
+    <h2 className="text-center h1">EVENTO DISPONIBLE POR ÚNICA VEZ DEL 16 AL 20 DE OCTUBRE</h2>
       <p className="text-center h4 pt-2 ">
       Tenemos un gran desafío y es avisarte en tiempo real cuando se estrenen
         cada uno de los enlaces de las clases en vivo para que ingreses y no te pierdas ninguna <br/><br/>
