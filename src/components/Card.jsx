@@ -21,7 +21,6 @@ export const data = [
     },
     
   ];
-  import Card from 'react-bootstrap/Card';
   import { GoChevronRight } from "react-icons/go";
   const Tarjeta = ({ items }) => {
     return (
