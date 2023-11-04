@@ -2,7 +2,7 @@ const Descripcion = () => {
   return (
     <>
     <div className="container py-5 tarjeta mt-5 ">
-    <h2 className="text-center h1">EVENTO DISPONIBLE POR ÚNICA VEZ</h2>
+    <h1 className="text-center style-titulos">EVENTO DISPONIBLE POR ÚNICA VEZ</h1>
       <p className="text-center h4 pt-2 ">
       te avisaremos en tiempo real cuando se estrenen
         cada una de las clases en vivo para que ingreses y no te pierdas ninguna <br/><br/>
@@ -11,6 +11,11 @@ const Descripcion = () => {
         <br />
         Para no perderte ninguna de nuestras clases, solo deberás dar clic en el botón verde y unirte al grupo de WhatsApp.
       </p>
+
+     <div className="d-flex justify-content-center mt-5">
+     <a href="" className="boton">Ingresa al grupo</a>
+     </div>
+
     </div>
      
     </>

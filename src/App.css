@@ -70,6 +70,18 @@ background-image: linear-gradient(356deg, #151516 0%, #1e1e1e 46%, #55ea15e4 100
   box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.26);
   
 }
+.style-titulos{
+  color: transparent;
+  background-image: linear-gradient(
+    20deg
+    ,
+    #ffffff,
+    #6fff00
+    );
+    background-clip:text;
+    -webkit-background-clip:text ; 
+    font-weight: 900;
+ }
 .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
