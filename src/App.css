@@ -82,6 +82,18 @@ background-image: linear-gradient(356deg, #151516 0%, #1e1e1e 46%, #55ea15e4 100
     -webkit-background-clip:text ; 
     font-weight: 900;
  }
+.style-titulos-dos{
+  color: transparent;
+  background-image: linear-gradient(
+    20deg
+    ,
+    #ffffff,
+    #ffffff
+    );
+    background-clip:text;
+    -webkit-background-clip:text ; 
+    font-weight: 900;
+ }
 .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -97,7 +109,7 @@ gap: 10px;
   }
   iframe{
     
-   height: 100%;
+   
     width: 100%;
   }
   

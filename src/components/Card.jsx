@@ -26,7 +26,7 @@ export const data = [
     return (
       <>
       <div className='bg'>
-      <h2 className="text-center pb-4">PARA QUIEN ES ESTE EVENTO:</h2>
+      <h2 className="text-center pb-4 style-titulos-dos mt-3">PARA QUIEN ES ESTE EVENTO</h2>
 
 <section className="container grid-container">
  {items.map((item, index) => (
