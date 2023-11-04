@@ -82,8 +82,8 @@ gap: 10px;
   }
   iframe{
     
-   width: auto;
-    height: auto;
+   
+    height: 100%;
   }
   
   .grid-container {
