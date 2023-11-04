@@ -108,9 +108,8 @@ gap: 10px;
   
   }
   iframe{
-    
-   height: 100%;
-    width: 100%;
+    width: 315px;
+   height: 250px;
   }
   
   .grid-container {
