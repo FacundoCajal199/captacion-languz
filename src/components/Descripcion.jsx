@@ -1,7 +1,7 @@
 const Descripcion = () => {
   return (
     <>
-    <div className="container py-5 ">
+    <div className="container py-5 tarjeta mt-5 ">
     <h2 className="text-center h1">EVENTO DISPONIBLE POR ÚNICA VEZ</h2>
       <p className="text-center h4 pt-2 ">
       te avisaremos en tiempo real cuando se estrenen
