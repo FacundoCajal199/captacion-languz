@@ -13,7 +13,7 @@ const Descripcion = () => {
       </p>
 
      <div className="d-flex justify-content-center mt-5">
-     <a href="" className="boton">Ingresa al grupo</a>
+     <a href="https://chat.whatsapp.com/K109F4F4ATSHPtH0REsTXs" className="boton">Ingresa al grupo</a>
      </div>
 
     </div>
