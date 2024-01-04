@@ -21,6 +21,7 @@ export const data = [
     },
     
   ];
+  
   import { GoChevronRight } from "react-icons/go";
   const Tarjeta = ({ items }) => {
     return (
